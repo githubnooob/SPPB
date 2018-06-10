@@ -1,0 +1,21 @@
+.dropFile
+{
+	margin-top: 10px;
+}
+
+.DropContainer
+{
+	margin: 20px;
+	overflow: scroll;
+	border: 1px solid black;
+}
+
+
+.submitButton
+{
+	margin-top: 5px;
+	margin-left: 15px;
+}
+
+
+

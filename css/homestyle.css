@@ -1,0 +1,93 @@
+
+
+.mynavbar
+{
+	padding: 0;
+	margin: 0;
+	background-color: #FFF;
+	position: relative;
+	z-index: 2;
+	overflow: hidden;
+}
+
+.navbar
+{
+	background: #FFF;
+	height: 50px;
+}
+
+.title1
+{
+	font-family: monospace;
+	color: red;
+	font-size: 40px;
+}
+.title2
+{
+	font-family: sans-serif;
+	color: blue;
+	font-size: 40px;
+}
+
+.frontPageContainer
+{
+	
+	position: absolute;
+	top: 50px;
+	left: 0px;
+	right: 0px;
+	height: 100vh;
+}
+
+.blockquote
+{
+	font-family: monospace;
+	line-height: 1.2em;
+	margin-left: 10px;
+	text-align: center;
+	width: 200px;
+}
+
+.imagePromoPic
+{
+	height: 300px;
+	width: 300px;
+}
+
+
+.quote
+{
+	font-family: monospace;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.fDivider
+{
+	font-family: monospace;
+	color: black;
+	margin-top: 20px;
+}
+
+.cardRow
+{
+	width: 100%;
+}
+
+.card
+{
+	margin-left: 10px;
+	margin-right: 10px;
+	opacity: 1;
+}
+.card-img-top
+{
+	width: 200px;
+	height: 200px;
+}
+
+.card-text
+{
+	font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,17 @@
+#eachFile
+{
+	width: 100%;
+	margin-top: 20px;
+}
+
+#commentingImage
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+
+.commentArea
+{
+	margin-top: 20px;
+}
